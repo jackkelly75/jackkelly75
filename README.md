@@ -6,6 +6,7 @@ Currently, using genomic and transcriptomic data I have been developing an appro
 Additionally, I am the consultant statistician for the Manchester University Centre for Audiology and Deafness. I have experience collaborating on large projects with many researchers and handling a wide variety of health data types and methodologies.
 
 - 📫 How to reach me: jack.kelly@manchester.ac.uk
+- [My publications](https://scholar.google.com/citations?user=YS43_RgAAAAJ&hl=en)
 <!--
 **jackkelly75/jackkelly75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
