@@ -1,6 +1,6 @@
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jackkelly75/)
-
+[![Linkedin: Jack Kelly](https://img.shields.io/badge/-Jack%20Kelly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackkelly75/)](https://www.linkedin.com/in/jackkelly75/)
+[![Medium Badge](https://img.shields.io/badge/-jackkelly75-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jackkelly75)](https://medium.com/@jackkelly75)
 
 Currently, I am operations lead data scientist at RAC with a particular interest in applications of machine and deep learning to big data.
 
@@ -11,3 +11,9 @@ My PhD was in applications of machine learning to identify blood biomarkers of n
 
 - [My publications](https://scholar.google.com/citations?user=YS43_RgAAAAJ&hl=en)
 
+
+### Latest Posts
+
+#### Medium
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
