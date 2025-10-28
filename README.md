@@ -16,4 +16,5 @@ My PhD was in applications of machine learning to identify blood biomarkers of n
 
 #### Medium
 <!-- MEDIUM:START -->
+[DataDecoded MCR 2025: Key Takeaways as a data scientist](https://medium.com/@jackkelly75/data-decoded-mcr-2025-key-takeaways-as-a-data-scientist-9812547c7d0d)
 <!-- MEDIUM:END -->
